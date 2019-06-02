@@ -1,7 +1,7 @@
 import java.awt.geom.Line2D;
 
 public class Triangle2D {
-    private MyPoint triangle[];
+    private MyPoint[] triangle;
     private double side1;
     private double side2;
     private double side3;
